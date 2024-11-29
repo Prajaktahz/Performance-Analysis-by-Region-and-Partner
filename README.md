@@ -1,7 +1,7 @@
-🌍📈 Performance and Revenue Analysis by Region and Partner 🌟
+##🌍📈 Performance and Revenue Analysis by Region and Partner 🌟
 Welcome to the Performance and Revenue Analysis repository! This project presents an insightful breakdown of SME market performance across various regions, accompanied by key indicators and metrics to guide strategic decision-making. 🚀
 
-📋 Overview
+###📋 Overview
 This analysis dives into:
 
 🌐 Regional SME Market Share
